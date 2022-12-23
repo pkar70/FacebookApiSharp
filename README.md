@@ -1,3 +1,12 @@
+# Comment
+This is clone of original, unmodified.
+For modified version, see https://github.com/pkar70/SkanowanieFilmow/tree/master/FacebookApiSharp.
+Modifications:
+- two-factor authorization support,
+- creating photo albums (as makedir, md - without content)
+- searching for photo album
+
+
 # FacebookApiSharp 
 A Tiny Private Facebook API for .NET based on Android version.
 
